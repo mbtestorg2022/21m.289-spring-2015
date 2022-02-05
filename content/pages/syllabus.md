@@ -46,36 +46,318 @@ Class Schedule, Reading and Media
 
 This class emphasizes both theory and practice. Readings and discussion will be focused primarily on Mondays, with Wednesday sessions geared toward other activities: Guest presenters, film screenings, media workshops and group critiques of student projects. Monday sessions will be seminar-style discussions, while Wednesdays will vary depending on the format. Students are expected to be prepared to engage with both kinds of work (reading / discussing, critically viewing / making), but again, no previous knowledge or experience is required.
 
-| WEEK # | TOPICS AND EVENTS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction: A Media Archaeology of Islam | &nbsp; |
-| {{< td-colspan 3 >}}**Part I: First Media**{{< /td-colspan >}} |||
-| 2 |  {{< br >}}{{< br >}} The Qur'an: Message and Medium, I {{< br >}}{{< br >}} _Guest_: Laura Marks {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | The Qur'an: Message and Medium, II | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Message and Messenger {{< br >}}{{< br >}} Workshop on Audio / Video Production {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Memory Transmission: Sunnah and Hadith | Due: Project 1 |
-| {{< td-colspan 3 >}}**Part II: Sensory Islam as Audiovision**{{< /td-colspan >}} |||
-| 6 | Visual Islam: Writing | Quiz 1, on Foundational Ideas and Terms of Islam |
-| 7 |  {{< br >}}{{< br >}} Visual Islam: Art and Architecture {{< br >}}{{< br >}} _Guest_: Azra Akšamija {{< br >}}{{< br >}} Visit to Islamic Society of Boston Cultural Center {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Visual Islam: Museums, Archives {{< br >}}{{< br >}} No Class Meetings; Self-guided Visit to Museum of Fine Arts {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Aural Islam: Poetry and Soundscapes |  {{< br >}}{{< br >}} Due: MFA Response Questions {{< br >}}{{< br >}} Due: Project 2, Response to Islamic Art {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part III: Networked Islams**{{< /td-colspan >}} |||
-| 10 | Pilgrimage, Travel, and Gender | One-on-one Meeting to Discuss Final Project |
-| 11 |  {{< br >}}{{< br >}} Jihadist Circulations {{< br >}}{{< br >}} _Guest_: Rich Nielsen {{< br >}}{{< br >}}  | Due: Abstract of Final Project |
-| 12 | Muslim Media I: Protest | Quiz 2 on Key Terms in Sound / Media Studies |
-| 13 | Muslim Media II: Islam in the Media | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Conclusion: Islam as Discourse Network? {{< br >}}{{< br >}} Final Projects Open House & Exhibition {{< br >}}{{< br >}}  | Final Project Due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS AND EVENTS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: A Media Archaeology of Islam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: First Media**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Qur'an: Message and Medium, I
+
+_Guest_: Laura Marks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Qur'an: Message and Medium, II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Message and Messenger
+
+Workshop on Audio / Video Production
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Memory Transmission: Sunnah and Hadith
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Project 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Sensory Islam as Audiovision**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Visual Islam: Writing
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1, on Foundational Ideas and Terms of Islam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visual Islam: Art and Architecture
+
+_Guest_: Azra Akšamija
+
+Visit to Islamic Society of Boston Cultural Center
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visual Islam: Museums, Archives
+
+No Class Meetings; Self-guided Visit to Museum of Fine Arts
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Aural Islam: Poetry and Soundscapes
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Due: MFA Response Questions
+
+Due: Project 2, Response to Islamic Art
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: Networked Islams**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Pilgrimage, Travel, and Gender
+{{< tdclose >}}
+{{< tdopen >}}
+One-on-one Meeting to Discuss Final Project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jihadist Circulations
+
+_Guest_: Rich Nielsen
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Due: Abstract of Final Project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Muslim Media I: Protest
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 on Key Terms in Sound / Media Studies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Muslim Media II: Islam in the Media
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conclusion: Islam as Discourse Network?
+
+Final Projects Open House & Exhibition
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
-| COURSE WORKS | PERCENTAGES |
-| --- | --- |
-| Attendance, Participation and Preparation | 10% |
-| Two Response Paper / Media Projects | 25% (combined) |
-| Two Short Quizzes | 5% |
-| Final Project Proposal | 10% |
-| Final Project | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSE WORKS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, Participation and Preparation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Response Paper / Media Projects
+{{< tdclose >}}
+{{< tdopen >}}
+25% (combined)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Short Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project Proposal
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Collaboration and Academic Integrity
 ------------------------------------
